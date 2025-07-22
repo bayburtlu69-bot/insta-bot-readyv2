@@ -1,2 +1,2 @@
-flask
-instagrapi
+flask==2.3.3
+instagrapi==1.16.5
